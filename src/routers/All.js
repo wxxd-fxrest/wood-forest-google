@@ -8,6 +8,7 @@ const All = () => {
     return (
         <div className="All">
             <Header />
+            <div className="Header_a"></div>
             <div className="All_IMG_Box">
                 <div className="All_IMG_Div">
                     <img src={Google} className="All_google_img" height="92px" width="272px" />
