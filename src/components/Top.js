@@ -1,12 +1,12 @@
 import Search from '../img/Google_icons_search.png' ;
 import Icons from '../img/Google_icons.png' ;
-import HTML5 from '/Users/drizzle/wood-forest-google/src/img/html5_img.png' ; 
-import CSS3 from '/Users/drizzle/wood-forest-google/src/img/css3_img.png' ; 
-import JAVASCRIPT from '/Users/drizzle/wood-forest-google/src/img/javascript_img.png' ; 
-import REACT from '/Users/drizzle/wood-forest-google/src/img/react_img.png' ; 
-import VUE from '/Users/drizzle/wood-forest-google/src/img/vue.js_img.png' ; 
-import REACTNATIVE from '/Users/drizzle/wood-forest-google/src/img/reactnative_img.png' ; 
-import FLUTTER from '/Users/drizzle/wood-forest-google/src/img/flutter_img.png' ; 
+import HTML5 from '../img/html5_img.png' ; 
+import CSS3 from '../img/css3_img.png' ; 
+import JAVASCRIPT from '../img/javascript_img.png' ; 
+import REACT from '../img/react_img.png' ; 
+import VUE from '../img/vue.js_img.png' ; 
+import REACTNATIVE from '../img/reactnative_img.png' ; 
+import FLUTTER from '../img/flutter_img.png' ; 
 
 
 const Top = () => {
