@@ -7,9 +7,12 @@ import REACT from '../img/react_img.png' ;
 import VUE from '../img/vue.js_img.png' ; 
 import REACTNATIVE from '../img/reactnative_img.png' ; 
 import FLUTTER from '../img/flutter_img.png' ; 
+import { useNavigate } from 'react-router-dom';
 
 
 const Top = () => {
+    const navigate = useNavigate();
+
     return (
         <div className="Top">
             <form className="Top_From">
@@ -20,7 +23,7 @@ const Top = () => {
                         <div className="wrapper_bady">
                             <img src={Search} className="wrapper_search"/>
                             <img src={Icons} className="wrapper_icons"/>
-                            <div className="wrapper">
+                            <div className="wrapper" onClick={(() => navigate('/Skill'))}>
                                 <p> skill : </p>
                                 <div className="words"> 
                                     <span> <img src={HTML5} className='wrapper_icon_img'/> html5 </span>
