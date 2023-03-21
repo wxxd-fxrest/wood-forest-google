@@ -38,22 +38,51 @@ const Skill = () => {
                 <div className='SkillBox'>
                     <img src={HTML5} />
                     <div className='SkillEmpty'></div>
-                    <h3> html5 </h3>
+                    <div className='SkillTextBox'>
+                        <h3> html5 </h3>
+                    </div>
                 </div>
                 <div className='SkillBox'>
-                    <img src={HTML5} />
+                    <img src={CSS3} />
                     <div className='SkillEmpty'></div>
-                    <h3> html5 </h3>
+                    <div className='SkillTextBox'>
+                        <h3> css3 </h3>
+                    </div>
                 </div>
                 <div className='SkillBox'>
-                    <img src={HTML5} />
+                    <img src={JAVASCRIPT} />
                     <div className='SkillEmpty'></div>
-                    <h3> html5 </h3>
+                    <div className='SkillTextBox'>
+                        <h3> JavaScript </h3>
+                    </div>
                 </div>
                 <div className='SkillBox'>
-                    <img src={HTML5} />
+                    <img src={REACT} />
                     <div className='SkillEmpty'></div>
-                    <h3> html5 </h3>
+                    <div className='SkillTextBox'>
+                        <h3> React.js </h3>
+                    </div>
+                </div>
+                <div className='SkillBox'>
+                    <img src={VUE} />
+                    <div className='SkillEmpty'></div>
+                    <div className='SkillTextBox'>
+                        <h3> Vue.js </h3>
+                    </div>
+                </div>
+                <div className='SkillBox'>
+                    <img src={REACTNATIVE} />
+                    <div className='SkillEmpty'></div>
+                    <div className='SkillTextBox'>
+                        <h3> React Native </h3>
+                    </div>
+                </div>
+                <div className='SkillBox'>
+                    <img src={FLUTTER} />
+                    <div className='SkillEmpty'></div>
+                    <div className='SkillTextBox'>
+                        <h3> Flutter </h3>
+                    </div>
                 </div>
             </div>
         </div>
