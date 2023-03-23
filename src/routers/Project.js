@@ -36,7 +36,7 @@ const Project = () => {
                 <div className='Project'>
                     <div className='ProjectBox'>
                         <img src={WOOD} />
-                        <div className='ProjectCard' style={{backgroundColor:"rgb(60, 186, 84, 0.8)"}}> Portfolio </div>
+                        <div className='ProjectCard' style={{backgroundColor:"rgb(219, 50, 54, 0.7)"}}> Portfolio </div>
                         <div className='ProjectText'>
                             <h3> Wood-forest-Google </h3>
                             <h4> 2023/03/18 ~ </h4>
@@ -61,7 +61,7 @@ const Project = () => {
                     </div>
                     <div className='ProjectBox'>
                         <img src={VUEKAOTALK} />
-                        <div className='ProjectCard' style={{backgroundColor:"rgb(219, 50, 54, 0.7)"}}> Chat app </div>
+                        <div className='ProjectCard' style={{backgroundColor:"rgb(60, 186, 84, 0.8)"}}> Chat app </div>
                         <div className='ProjectText'>
                             <h3> Wood-forest-VuekaoTalk </h3>
                             <h4> 2023/01/08 ~ 2023/02/12 </h4>

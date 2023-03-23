@@ -46,10 +46,12 @@ const Under = () => {
                     </div>
                     {more ? 
                     <div className='Contact'>
-                        <h4> Email </h4>
-                        <p> ↬ email@naver.com </p>
-                        <h4> Phone Number </h4>
-                        <p> ↬ 010-7777-9999 </p>
+                        <div className='Contact_box'>
+                            <h4> Email </h4>
+                            <p> ↬ email@naver.com </p>
+                            <h4> Phone Number </h4>
+                            <p> ↬ 010-7777-9999 </p>
+                        </div>
                     </div> : null}
                 </div>
             </div>

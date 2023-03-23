@@ -34,54 +34,58 @@ const Skill = () => {
                     <p> 전체  </p>
                 </div>
             </div>
-            <div className='Skill'>
-                <div className='SkillBox'>
-                    <img src={HTML5} />
-                    <div className='SkillEmpty'></div>
-                    <div className='SkillTextBox'>
-                        <h3> html5 </h3>
+            <div className='skill_box'>
+                <div className='skill_a'>
+                    <div className='skill_title'>
+                        <h3> 업무에 사용할 줄 알아요. </h3>
+                    </div>
+                    <div className='skill_in_box'>
+                        <img src={REACT} />
+                        <div className='skill_in_text'>
+                            <h3> React.js </h3>
+                        </div>
+                    </div>
+                    <div className='skill_in_box'>
+                        <img src={REACT} />
+                        <div className='skill_in_text'>
+                            <h3> React.js </h3>
+                        </div>
                     </div>
                 </div>
-                <div className='SkillBox'>
-                    <img src={CSS3} />
-                    <div className='SkillEmpty'></div>
-                    <div className='SkillTextBox'>
-                        <h3> css3 </h3>
+
+                <div className='skill_b'>
+                    <div className='skill_title'>
+                        <h3> 업무에 사용할 줄 알아요. </h3>
+                    </div>
+                    <div className='skill_in_box'>
+                        <img src={REACT} />
+                        <div className='skill_in_text'>
+                            <h3> React.js </h3>
+                        </div>
+                    </div>
+                    <div className='skill_in_box'>
+                        <img src={REACT} />
+                        <div className='skill_in_text'>
+                            <h3> React.js </h3>
+                        </div>
                     </div>
                 </div>
-                <div className='SkillBox'>
-                    <img src={JAVASCRIPT} />
-                    <div className='SkillEmpty'></div>
-                    <div className='SkillTextBox'>
-                        <h3> JavaScript </h3>
+
+                <div className='skill_c'>
+                    <div className='skill_title'>
+                        <h3> 업무에 사용할 줄 알아요. </h3>
                     </div>
-                </div>
-                <div className='SkillBox'>
-                    <img src={REACT} />
-                    <div className='SkillEmpty'></div>
-                    <div className='SkillTextBox'>
-                        <h3> React.js </h3>
+                    <div className='skill_in_box'>
+                        <img src={REACT} />
+                        <div className='skill_in_text'>
+                            <h3> React.js </h3>
+                        </div>
                     </div>
-                </div>
-                <div className='SkillBox'>
-                    <img src={VUE} />
-                    <div className='SkillEmpty'></div>
-                    <div className='SkillTextBox'>
-                        <h3> Vue.js </h3>
-                    </div>
-                </div>
-                <div className='SkillBox'>
-                    <img src={REACTNATIVE} />
-                    <div className='SkillEmpty'></div>
-                    <div className='SkillTextBox'>
-                        <h3> React Native </h3>
-                    </div>
-                </div>
-                <div className='SkillBox'>
-                    <img src={FLUTTER} />
-                    <div className='SkillEmpty'></div>
-                    <div className='SkillTextBox'>
-                        <h3> Flutter </h3>
+                    <div className='skill_in_box'>
+                        <img src={REACT} />
+                        <div className='skill_in_text'>
+                            <h3> React.js </h3>
+                        </div>
                     </div>
                 </div>
             </div>
