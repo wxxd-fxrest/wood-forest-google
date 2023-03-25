@@ -35,12 +35,14 @@ const Project = () => {
             <div className='ProjectAll'>
                 <div className='Project'>
                     <div className='ProjectBox'>
-                        <img src={WOOD} />
+                        <a href='https://wxxd-fxrest.github.io/wood-forest-google'>  
+                            <img src={WOOD} />
+                        </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(219, 50, 54, 0.7)"}}> Portfolio </div>
                         <div className='ProjectText'>
                             <h3> Wood-forest-Google </h3>
                             <h4> 2023/03/18 ~ </h4>
-                            <div className='aaaa'>
+                            <div className='ProjectIfobox'>
                                 <p> ▸ Personal project <br /> ▸ 반응형 웹 페이지 </p>
                                 <p> #React.js </p>
                             </div>
@@ -51,12 +53,14 @@ const Project = () => {
                         </div>
                     </div>
                     <div className='ProjectBox'>
-                        <img src={STARGRAM} />
+                        <a href='https://wxxd-fxrest.github.io/stargram'> 
+                            <img src={STARGRAM} />
+                        </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(72, 133, 237, 0.8)"}}> Instagram - Clone </div>
                         <div className='ProjectText'>
                             <h3> Wood-forest-Stargram </h3>
                             <h4> 2023/02/20 ~ 2023/03/14 </h4>
-                            <div className='aaaa'>
+                            <div className='ProjectIfobox'>
                                 <p> ▸ Personal project <br /> ▸ SNS Clone </p>
                                 <p> #React.js #Firebase </p>
                             </div>
@@ -67,12 +71,14 @@ const Project = () => {
                         </div>
                     </div>
                     <div className='ProjectBox'>
-                        <img src={VUEKAOTALK} />
+                        <a href='https://wxxd-fxrest.github.io/wood-forest-talk/'>  
+                            <img src={VUEKAOTALK} />
+                        </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(60, 186, 84, 0.8)"}}> Chat app </div>
                         <div className='ProjectText'>
                             <h3> Wood-forest-VuekaoTalk </h3>
                             <h4> 2023/01/08 ~ 2023/02/12 </h4>
-                            <div className='aaaa'>
+                            <div className='ProjectIfobox'>
                                 <p> ▸ Personal project  <br /> ▸ Chat app </p>
                                 <p> #Vue.js #Firebase </p>
                             </div>
@@ -83,12 +89,14 @@ const Project = () => {
                         </div>
                     </div>
                     <div className='ProjectBox'>
-                        <img src={ASK} />
+                        <a href='https://wxxd-fxrest.github.io/wood-forest-ask'>  
+                            <img src={ASK} />
+                        </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(0, 0, 0, 0.6)"}}> Ask - Chat app </div>
                         <div className='ProjectText'>
                             <h3> Wood-forest-ask </h3>
                             <h4> 2022/12/18 ~ 2022/12/31 </h4>
-                            <div className='aaaa'>
+                            <div className='ProjectIfobox'>
                                 <p> ▸ Personal project  <br /> ▸ Ask - Chat app </p>
                                 <p> #React.js #Firebase </p>
                             </div>
