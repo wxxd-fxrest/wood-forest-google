@@ -32,15 +32,6 @@ const Under = () => {
                         <img src={SKILL} className="Under_Icon_img" />
                         <p className='Under_Icon_Text'> 언어 </p>
                     </div>
-
-                    {/* <a href='https://puffy-poinsettia-b48.notion.site/Wood-s-Portfolio-42d0cfc4769f47c3938961e53321f9c5'>  
-                    <h3> Notion </h3>
-                </a>
-                <a href='https://github.com/wxxd-fxrest'>  
-                    <h3> Github </h3>
-                </a> */}
-
-
                     <div className="Under_Icon">  
                         <a href='https://puffy-poinsettia-b48.notion.site/Wood-s-Portfolio-42d0cfc4769f47c3938961e53321f9c5'>  
                         <img src={NOTION} className="Under_Icon_img" />
@@ -61,9 +52,9 @@ const Under = () => {
                     <div className='Contact'>
                         <div className='Contact_box'>
                             <h4> Email </h4>
-                            <p> ↬ email@naver.com </p>
+                            <p> ↬ fxrest704@gmail.com </p>
                             <h4> Phone Number </h4>
-                            <p> ↬ 010-7777-9999 </p>
+                            <p> ↬ 010-7609-7821 </p>
                         </div>
                     </div> : null}
                 </div>

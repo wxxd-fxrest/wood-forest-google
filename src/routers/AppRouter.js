@@ -7,7 +7,7 @@ import Skill from "./Skill";
 const AppRouter = () => {
     return(
         <div>
-            <BrowserRouter>
+            <BrowserRouter basename="wood-forest-google">
                 <Routes>
                     <Route>
                         <Route path='/' element={<All />} />
