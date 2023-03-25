@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wood-forest-google/static/css/main.b548cafc.css",
-    "main.js": "/wood-forest-google/static/js/main.83103aeb.js",
+    "main.js": "/wood-forest-google/static/js/main.41499f0c.js",
     "static/media/projectWooood.png": "/wood-forest-google/static/media/projectWooood.f000b60a619ee0ede74d.png",
     "static/media/projectTalk.png": "/wood-forest-google/static/media/projectTalk.dc2d0fcfddba512b4eeb.png",
     "static/media/projectStargram.png": "/wood-forest-google/static/media/projectStargram.2bb70cd33aebd9485997.png",
@@ -26,10 +26,10 @@
     "static/media/vue.js_img.png": "/wood-forest-google/static/media/vue.js_img.fa747838cc6e52d7e731.png",
     "index.html": "/wood-forest-google/index.html",
     "main.b548cafc.css.map": "/wood-forest-google/static/css/main.b548cafc.css.map",
-    "main.83103aeb.js.map": "/wood-forest-google/static/js/main.83103aeb.js.map"
+    "main.41499f0c.js.map": "/wood-forest-google/static/js/main.41499f0c.js.map"
   },
   "entrypoints": [
     "static/css/main.b548cafc.css",
-    "static/js/main.83103aeb.js"
+    "static/js/main.41499f0c.js"
   ]
 }
