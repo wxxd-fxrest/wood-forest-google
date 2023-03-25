@@ -40,7 +40,10 @@ const Project = () => {
                         <div className='ProjectText'>
                             <h3> Wood-forest-Google </h3>
                             <h4> 2023/03/18 ~ </h4>
-                            <p> personal </p>
+                            <div className='aaaa'>
+                                <p> ▸ Personal project <br /> ▸ 반응형 웹 페이지 </p>
+                                <p> #React.js </p>
+                            </div>
                         </div>
                         <div className='ProjectLinkBox'>
                             <a href='#' className='Project_Notion'> Notion </a> 
@@ -53,6 +56,10 @@ const Project = () => {
                         <div className='ProjectText'>
                             <h3> Wood-forest-Stargram </h3>
                             <h4> 2023/02/20 ~ 2023/03/14 </h4>
+                            <div className='aaaa'>
+                                <p> ▸ Personal project <br /> ▸ SNS Clone </p>
+                                <p> #React.js #Firebase </p>
+                            </div>
                         </div>
                         <div className='ProjectLinkBox'>
                             <a href='https://puffy-poinsettia-b48.notion.site/React-wood-forest-Stargram-3b0ddf621f7d48249d518332840ee03d' className='Project_Notion'> Notion </a> 
@@ -65,6 +72,10 @@ const Project = () => {
                         <div className='ProjectText'>
                             <h3> Wood-forest-VuekaoTalk </h3>
                             <h4> 2023/01/08 ~ 2023/02/12 </h4>
+                            <div className='aaaa'>
+                                <p> ▸ Personal project  <br /> ▸ Chat app </p>
+                                <p> #Vue.js #Firebase </p>
+                            </div>
                         </div>
                         <div className='ProjectLinkBox'>
                             <a href='https://puffy-poinsettia-b48.notion.site/Vue-js-wood-forest-VuekaoTalk-e93840aa52b5425bb8774a28bc416afc' className='Project_Notion'> Notion </a> 
@@ -77,6 +88,10 @@ const Project = () => {
                         <div className='ProjectText'>
                             <h3> Wood-forest-ask </h3>
                             <h4> 2022/12/18 ~ 2022/12/31 </h4>
+                            <div className='aaaa'>
+                                <p> ▸ Personal project  <br /> ▸ Ask - Chat app </p>
+                                <p> #React.js #Firebase </p>
+                            </div>
                         </div>
                         <div className='ProjectLinkBox'>
                             <a href='https://puffy-poinsettia-b48.notion.site/React-wood-forest-ask-87d19d18eb044ec79fd7e18bdc70639a' className='Project_Notion'> Notion </a> 
@@ -85,43 +100,6 @@ const Project = () => {
                     </div>
                 </div>
             </div>
-
-
-            {/* <div className='Project'>
-                <div className='ProjectBox'>
-                    <img src={ASK} />
-                    <div className='ProjectText'>
-                        <h3> Wood-forest-ask </h3>
-                        <div className='ProjectEmpty'></div>
-                        <div className='ProjectLinkBox'>
-                            <a href='#' className='Project_Notion'> Notion </a> 
-                            <a href='#' className='Project_Github'> Github </a>
-                        </div>
-                    </div>
-                </div>
-                <div className='ProjectBox'>
-                    <img src={VUEKAOTALK} />
-                    <div className='ProjectText'>
-                        <h3> Wood-forest-VuekaoTalk </h3>
-                        <div className='ProjectEmpty'></div>
-                        <div className='ProjectLinkBox'>
-                            <a href='#' className='Project_Notion'> Notion </a> 
-                            <a href='#' className='Project_Github'> Github </a>
-                        </div>
-                    </div>
-                </div>
-                <div className='ProjectBox'>
-                    <img src={STARGRAM} />
-                    <div className='ProjectText'>
-                        <h3> Wood-forest-Stargram </h3>
-                        <div className='ProjectEmpty'></div>
-                        <div className='ProjectLinkBox'>
-                            <a href='#' className='Project_Notion'> Notion </a> 
-                            <a href='#' className='Project_Github'> Github </a>
-                        </div>
-                    </div>
-                </div>
-            </div> */}
         </div>
     )
 }

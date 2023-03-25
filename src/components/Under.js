@@ -32,13 +32,26 @@ const Under = () => {
                         <img src={SKILL} className="Under_Icon_img" />
                         <p className='Under_Icon_Text'> 언어 </p>
                     </div>
+
+                    {/* <a href='https://puffy-poinsettia-b48.notion.site/Wood-s-Portfolio-42d0cfc4769f47c3938961e53321f9c5'>  
+                    <h3> Notion </h3>
+                </a>
+                <a href='https://github.com/wxxd-fxrest'>  
+                    <h3> Github </h3>
+                </a> */}
+
+
                     <div className="Under_Icon">  
+                        <a href='https://puffy-poinsettia-b48.notion.site/Wood-s-Portfolio-42d0cfc4769f47c3938961e53321f9c5'>  
                         <img src={NOTION} className="Under_Icon_img" />
-                        <p className='Under_Icon_Text'> 노션 </p>
+                            <p className='Under_Icon_Text'> Notion </p>
+                        </a>
                     </div>
                     <div className="Under_Icon">  
+                        <a href='https://github.com/wxxd-fxrest'>
                         <img src={GITHUB} className="Under_Icon_img" />
-                        <p className='Under_Icon_Text'> github </p>
+                            <p className='Under_Icon_Text'> Github </p>
+                        </a>
                     </div>
                     <div className="Under_Icon">  
                         <img src={INFO} className="Under_Contact" onClick={onClick}/>
