@@ -37,7 +37,7 @@ const Profile = () => {
                     <img src={PROFILEIMG} className='ProfileIMG'/>
                     <div className='ProfileBox'>
                         <div className='ProfileTITLE'>
-                            <h3 className='title1'> Web Developer, Frontend Engineer </h3>
+                            <h3 className='title1'> Frontend Engineer </h3>
                             <h3 className='title2'> 천천히 그러나 정확하게 성장하는 개발자 </h3>
                         </div>
                         <div className='Profile2'>
