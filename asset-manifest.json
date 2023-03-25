@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wood-forest-google/static/css/main.4cc423e0.css",
-    "main.js": "/wood-forest-google/static/js/main.fc12ef67.js",
+    "main.css": "/wood-forest-google/static/css/main.8fa52299.css",
+    "main.js": "/wood-forest-google/static/js/main.83103aeb.js",
     "static/media/projectWooood.png": "/wood-forest-google/static/media/projectWooood.f000b60a619ee0ede74d.png",
     "static/media/projectTalk.png": "/wood-forest-google/static/media/projectTalk.dc2d0fcfddba512b4eeb.png",
     "static/media/projectStargram.png": "/wood-forest-google/static/media/projectStargram.2bb70cd33aebd9485997.png",
@@ -25,11 +25,11 @@
     "static/media/Google.png": "/wood-forest-google/static/media/Google.85707a335f8d3583332c.png",
     "static/media/vue.js_img.png": "/wood-forest-google/static/media/vue.js_img.fa747838cc6e52d7e731.png",
     "index.html": "/wood-forest-google/index.html",
-    "main.4cc423e0.css.map": "/wood-forest-google/static/css/main.4cc423e0.css.map",
-    "main.fc12ef67.js.map": "/wood-forest-google/static/js/main.fc12ef67.js.map"
+    "main.8fa52299.css.map": "/wood-forest-google/static/css/main.8fa52299.css.map",
+    "main.83103aeb.js.map": "/wood-forest-google/static/js/main.83103aeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cc423e0.css",
-    "static/js/main.fc12ef67.js"
+    "static/css/main.8fa52299.css",
+    "static/js/main.83103aeb.js"
   ]
 }
