@@ -7,6 +7,7 @@ import { useNavigate } from 'react-router-dom';
 import Search from '../img/Google_icons_search.png' ;
 import ColorSearch from '../img/Google_color_search.png' ; 
 import Wood from '../img/Wood.png' ;
+import Trash from '../img/Trash-mumble.png';
 import Delete from '../img/Google_Delete.png' ; 
 import Icons from '../img/Google_Project_Icons.png' ;
 
@@ -35,13 +36,31 @@ const Project = () => {
             <div className='ProjectAll'>
                 <div className='Project'>
                     <div className='ProjectBox'>
+                        <a href='https://wxxd-fxrest.github.io/wood-forest-MumbleMumble'>  
+                            <img src={Trash} />
+                        </a>
+                        <div className='ProjectCard' style={{backgroundColor:"rgb(254, 214, 70, 0.7)", color:"black"}}> Diary app </div>
+                        <div className='ProjectText'>
+                            <h3> Wood-forest-TrashMumble </h3>
+                            <h4> 2023/04/02 ~ 2023/05/11 </h4>
+                            <div className='ProjectIfobox'>
+                                <p> ▸ Personal project(Team) <br /> ▸ 공유형 일기장 </p>
+                                <p> #React.js #Firebase #Last.fm </p>
+                            </div>
+                        </div>
+                        <div className='ProjectLinkBox'>
+                            <a href='#' className='Project_Notion'> Notion </a> 
+                            <a href='https://github.com/wxxd-fxrest/wood-forest-MumbleMumble' className='Project_Github'> Github </a>
+                        </div>
+                    </div>
+                    <div className='ProjectBox'>
                         <a href='https://wxxd-fxrest.github.io/wood-forest-google'>  
                             <img src={WOOD} />
                         </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(219, 50, 54, 0.7)"}}> Portfolio </div>
                         <div className='ProjectText'>
                             <h3> Wood-forest-Google </h3>
-                            <h4> 2023/03/18 ~ </h4>
+                            <h4> 2023/03/18 ~ 2023/03/26 </h4>
                             <div className='ProjectIfobox'>
                                 <p> ▸ Personal project <br /> ▸ 반응형 웹 페이지 </p>
                                 <p> #React.js </p>
