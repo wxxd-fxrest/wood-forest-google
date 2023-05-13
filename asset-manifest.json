@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wood-forest-google/static/css/main.49fd158c.css",
+    "main.css": "/wood-forest-google/static/css/main.e8f0ae5a.css",
     "main.js": "/wood-forest-google/static/js/main.a4e95979.js",
     "static/media/Trash-mumble.png": "/wood-forest-google/static/media/Trash-mumble.82e3bf81613510f6cc98.png",
     "static/media/projectWooood.png": "/wood-forest-google/static/media/projectWooood.f000b60a619ee0ede74d.png",
@@ -26,11 +26,11 @@
     "static/media/Google.png": "/wood-forest-google/static/media/Google.85707a335f8d3583332c.png",
     "static/media/vue.js_img.png": "/wood-forest-google/static/media/vue.js_img.fa747838cc6e52d7e731.png",
     "index.html": "/wood-forest-google/index.html",
-    "main.49fd158c.css.map": "/wood-forest-google/static/css/main.49fd158c.css.map",
+    "main.e8f0ae5a.css.map": "/wood-forest-google/static/css/main.e8f0ae5a.css.map",
     "main.a4e95979.js.map": "/wood-forest-google/static/js/main.a4e95979.js.map"
   },
   "entrypoints": [
-    "static/css/main.49fd158c.css",
+    "static/css/main.e8f0ae5a.css",
     "static/js/main.a4e95979.js"
   ]
 }
