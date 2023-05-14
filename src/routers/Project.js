@@ -90,24 +90,6 @@ const Project = () => {
                         </div>
                     </div>
                     <div className='ProjectBox'>
-                        <a href='https://wxxd-fxrest.github.io/wood-forest-talk/'>  
-                            <img src={VUEKAOTALK} />
-                        </a>
-                        <div className='ProjectCard' style={{backgroundColor:"rgb(60, 186, 84, 0.8)"}}> Chat app </div>
-                        <div className='ProjectText'>
-                            <h3> Wood-forest-VuekaoTalk </h3>
-                            <h4> 2023/01/08 ~ 2023/02/12 </h4>
-                            <div className='ProjectIfobox'>
-                                <p> ▸ Personal project  <br /> ▸ Chat app </p>
-                                <p> #Vue.js #Firebase </p>
-                            </div>
-                        </div>
-                        <div className='ProjectLinkBox'>
-                            <a href='https://puffy-poinsettia-b48.notion.site/Vue-js-wood-forest-VuekaoTalk-e93840aa52b5425bb8774a28bc416afc' className='Project_Notion'> Notion </a> 
-                            <a href='https://github.com/wxxd-fxrest/wood-forest-talk' className='Project_Github'> Github </a>
-                        </div>
-                    </div>
-                    <div className='ProjectBox'>
                         <a href='https://wxxd-fxrest.github.io/wood-forest-ask'>  
                             <img src={ASK} />
                         </a>
