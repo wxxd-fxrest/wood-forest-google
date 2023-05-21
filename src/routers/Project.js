@@ -49,7 +49,7 @@ const Project = () => {
                             </div>
                         </div>
                         <div className='ProjectLinkBox'>
-                            <a href='#' className='Project_Notion'> Notion </a> 
+                            <a href='https://puffy-poinsettia-b48.notion.site/wood-forest-MumbleTrash-8b4b2adfd8bb477fa8bffc9ab37ba887' className='Project_Notion'> Notion </a> 
                             <a href='https://github.com/wxxd-fxrest/wood-forest-MumbleMumble' className='Project_Github'> Github </a>
                         </div>
                     </div>
