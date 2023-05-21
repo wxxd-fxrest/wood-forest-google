@@ -30,9 +30,6 @@ const Top = () => {
                                     <span> <img src={CSS3} className='wrapper_icon_img'/> css3 </span>
                                     <span> <img src={JAVASCRIPT} className='wrapper_icon_img'/> JavaScript </span>
                                     <span> <img src={REACT} className='wrapper_icon_img'/> React.js </span>
-                                    <span> <img src={VUE} className='wrapper_icon_img'/> Vue.js </span>
-                                    <span> <img src={REACTNATIVE} className='wrapper_icon_img'/> React Native </span>
-                                    <span> <img src={FLUTTER} className='wrapper_icon_img'/> Flutter </span>
                                 </div>
                             </div>
                         </div>

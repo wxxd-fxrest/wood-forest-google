@@ -75,9 +75,15 @@ const Skill = () => {
                             <h3> Firebase </h3>
                         </div>
                     </div>
+                    <div className='skill_in_box'>
+                        <img src={GITHUB} />
+                        <div className='skill_in_text'>
+                            <h3> Github </h3>
+                        </div>
+                    </div>
                 </div>
 
-                <div className='skill_b'>
+                {/* <div className='skill_b'>
                     <div className='skill_title'>
                         <img src={IMG2}   />
                         <h3> 어느 정도 사용할 줄 알아요. </h3>
@@ -94,12 +100,12 @@ const Skill = () => {
                             <h3> Vue.js </h3>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <div className='skill_c'>
                     <div className='skill_title'>
                         <img src={IMG1}  />
-                        <h3> 배우고 있어요. </h3>
+                        <h3> 배우고 싶어요. </h3>
                     </div>
                     <div className='skill_in_box'>
                         <img src={REACTNATIVE} />
