@@ -1,7 +1,3 @@
-import REACT from '../img/reactnative_img.png' ;
-import ASK from '../img/ask_img.png' ;
-import VUEKAOTALK from '../img/vuekaotalk_img.png' ;
-import STARGRAM from '../img/stargram_img.png' ;
 import { useNavigate } from 'react-router-dom';
 import Search from '../img/Google_icons_search.png' ;
 import ColorSearch from '../img/Google_color_search.png' ; 

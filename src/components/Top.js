@@ -4,9 +4,6 @@ import HTML5 from '../img/html5_img.png' ;
 import CSS3 from '../img/css3_img.png' ; 
 import JAVASCRIPT from '../img/javascript_img.png' ; 
 import REACT from '../img/react_img.png' ; 
-import VUE from '../img/vue.js_img.png' ; 
-import REACTNATIVE from '../img/reactnative_img.png' ; 
-import FLUTTER from '../img/flutter_img.png' ; 
 import { useNavigate } from 'react-router-dom';
 
 

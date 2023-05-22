@@ -1,6 +1,4 @@
-import REACT from '../img/reactnative_img.png' ;
 import ASK from '../img/projectAsk.png' ;
-import VUEKAOTALK from '../img/projectTalk.png' ;
 import STARGRAM from '../img/projectStargram.png' ;
 import WOOD from '../img/projectWooood.png' ; 
 import { useNavigate } from 'react-router-dom';

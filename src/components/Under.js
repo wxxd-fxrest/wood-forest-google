@@ -1,11 +1,10 @@
-import NAVER from '../img/Google_NAVER_IMG.png' ;
 import NOTION from '../img/Notion.png' ; 
 import GITHUB from '../img/GithubMark.png' ; 
 import MY from '../img/MY.png' ; 
 import PROJECT from '../img/project.png' ;
 import SKILL from '../img/<:>.png' ; 
 import INFO from '../img/Info.png' ;
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 
 const Under = () => {
