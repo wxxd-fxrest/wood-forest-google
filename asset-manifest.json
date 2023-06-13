@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/wood-forest-google/static/css/main.e8f0ae5a.css",
-    "main.js": "/wood-forest-google/static/js/main.d67c3971.js",
+    "main.css": "/wood-forest-google/static/css/main.bd4ba80b.css",
+    "main.js": "/wood-forest-google/static/js/main.06918725.js",
     "static/media/Trash-mumble.png": "/wood-forest-google/static/media/Trash-mumble.82e3bf81613510f6cc98.png",
     "static/media/projectWooood.png": "/wood-forest-google/static/media/projectWooood.f000b60a619ee0ede74d.png",
-    "static/media/projectTalk.png": "/wood-forest-google/static/media/projectTalk.dc2d0fcfddba512b4eeb.png",
     "static/media/projectStargram.png": "/wood-forest-google/static/media/projectStargram.2bb70cd33aebd9485997.png",
     "static/media/projectAsk.png": "/wood-forest-google/static/media/projectAsk.38e2181408fe822b2201.png",
-    "static/media/stargram_img.png": "/wood-forest-google/static/media/stargram_img.1ee137840e117fc4db4b.png",
     "static/media/img 2.png": "/wood-forest-google/static/media/img 2.a21a31efb1059f2b6c68.png",
     "static/media/img 1.png": "/wood-forest-google/static/media/img 1.b60c4c975f673f52af34.png",
     "static/media/github.png": "/wood-forest-google/static/media/github.d826b7b881594d3e0155.png",
     "static/media/img 3.png": "/wood-forest-google/static/media/img 3.d547f74da34af403521f.png",
-    "static/media/vuekaotalk_img.png": "/wood-forest-google/static/media/vuekaotalk_img.bd5080fe43765604d810.png",
     "static/media/Wood.png": "/wood-forest-google/static/media/Wood.ac73d67c45e7fb620e95.png",
-    "static/media/ask_img.png": "/wood-forest-google/static/media/ask_img.de2443f402470770174d.png",
     "static/media/project.png": "/wood-forest-google/static/media/project.e0da2530164713549545.png",
     "static/media/reactnative_img.png": "/wood-forest-google/static/media/reactnative_img.ed995178458c1ed2f962.png",
     "static/media/Info.png": "/wood-forest-google/static/media/Info.80c762c5602d10fe9e83.png",
@@ -23,14 +19,13 @@
     "static/media/react_img.png": "/wood-forest-google/static/media/react_img.07cf37cb670109311513.png",
     "static/media/javascript_img.png": "/wood-forest-google/static/media/javascript_img.aa10e2747b3d744b7444.png",
     "static/media/MY.png": "/wood-forest-google/static/media/MY.69541c28a881b005d1b0.png",
-    "static/media/Google.png": "/wood-forest-google/static/media/Google.85707a335f8d3583332c.png",
     "static/media/vue.js_img.png": "/wood-forest-google/static/media/vue.js_img.fa747838cc6e52d7e731.png",
     "index.html": "/wood-forest-google/index.html",
-    "main.e8f0ae5a.css.map": "/wood-forest-google/static/css/main.e8f0ae5a.css.map",
-    "main.d67c3971.js.map": "/wood-forest-google/static/js/main.d67c3971.js.map"
+    "main.bd4ba80b.css.map": "/wood-forest-google/static/css/main.bd4ba80b.css.map",
+    "main.06918725.js.map": "/wood-forest-google/static/js/main.06918725.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8f0ae5a.css",
-    "static/js/main.d67c3971.js"
+    "static/css/main.bd4ba80b.css",
+    "static/js/main.06918725.js"
   ]
 }
