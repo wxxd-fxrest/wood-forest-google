@@ -733,16 +733,36 @@ body {
   margin: 10px;
 }
 
-.Profile2 > h3 {
-  font-size: 16px;
-  font-weight: 600;
+.Porfile_aboutME {
+  /* background-color: #1a73e8; */
+}
+
+.Porfile_aboutME > h6 {
+  font-size: 12px;
+  font-weight: 550;
   margin: 10px;
 }
 
+.info1 {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 10px;
+}
+
+.Profile3 {
+  display: flex;
+  /* background-color: #1a73e8; */
+  text-align: start;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+  margin-top: 10px;
+}
+
 .Profile3 > h3 { 
+  display: flex;
   font-size: 12px;
   font-weight: 400;
-  margin: 0px 0px 0px 10px ; 
+  margin: 5px 10px 5px 0px ; 
 }
 
 /* --------------------------- */

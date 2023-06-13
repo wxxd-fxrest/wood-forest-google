@@ -15,19 +15,19 @@ const Project = () => {
     return (
         <div className='ProjectAll'>
             <div className="Project_Wood_Box">
-                <img src={Wood} className="Project_Wood" onClick={(() => navigate("/"))}/>
+                <img alt='#' src={Wood} className="Project_Wood" onClick={(() => navigate("/"))}/>
             </div>
             <div className="Project_wrapper">
-                <img src={Search} className="Project_search"/>
-                <img src={Delete} className="Project_delete" onClick={(() => navigate("/"))}/>
-                <img src={Icons} className="Project_Icons"/>
+                <img alt='#' src={Search} className="Project_search"/>
+                <img alt='#' src={Delete} className="Project_delete" onClick={(() => navigate("/"))}/>
+                <img alt='#' src={Icons} className="Project_Icons"/>
                 <div className="Project_wrapper_box">
                     <p> Project </p>
                 </div>
             </div>
             <div className='Project_under'>
                 <div>
-                    <img src={ColorSearch} className="Project_under_search" />
+                    <img alt='#' src={ColorSearch} className="Project_under_search" />
                     <p> 전체  </p>
                 </div>
             </div>
@@ -35,7 +35,7 @@ const Project = () => {
                 <div className='Project'>
                     <div className='ProjectBox'>
                         <a href='https://wxxd-fxrest.github.io/wood-forest-MumbleMumble'>  
-                            <img src={Trash} />
+                            <img alt='#' src={Trash} />
                         </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(254, 214, 70, 0.7)", color:"black"}}> Diary app </div>
                         <div className='ProjectText'>
@@ -53,7 +53,7 @@ const Project = () => {
                     </div>
                     <div className='ProjectBox'>
                         <a href='https://wxxd-fxrest.github.io/wood-forest-google'>  
-                            <img src={WOOD} />
+                            <img alt='#' src={WOOD} />
                         </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(219, 50, 54, 0.7)"}}> Portfolio </div>
                         <div className='ProjectText'>
@@ -71,7 +71,7 @@ const Project = () => {
                     </div>
                     <div className='ProjectBox'>
                         <a href='https://wxxd-fxrest.github.io/stargram'> 
-                            <img src={STARGRAM} />
+                            <img alt='#' src={STARGRAM} />
                         </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(72, 133, 237, 0.8)"}}> Instagram - Clone </div>
                         <div className='ProjectText'>
@@ -89,7 +89,7 @@ const Project = () => {
                     </div>
                     <div className='ProjectBox'>
                         <a href='https://wxxd-fxrest.github.io/wood-forest-ask'>  
-                            <img src={ASK} />
+                            <img alt='#' src={ASK} />
                         </a>
                         <div className='ProjectCard' style={{backgroundColor:"rgb(0, 0, 0, 0.6)"}}> Ask - Chat app </div>
                         <div className='ProjectText'>
